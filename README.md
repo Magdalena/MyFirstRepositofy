@@ -1,0 +1,3 @@
+# MyFirstRepositofy
+første fil...
+God is a DJ.
